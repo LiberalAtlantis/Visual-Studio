@@ -58,6 +58,6 @@ C# 教程
 
 以 zip 方式解压下载的安装包.nupkg（可以直接修改后缀名为 .zip 再进行解压）
 
-复制：build.NETFramework\v4.5\ 到 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5
+复制：build\.NETFramework\v4.5\ 到 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5
 
 （3）重启 Visual Studio 2022
